@@ -13,7 +13,7 @@ setup will come out of the box using the `react-create-app` package.
    - Check the resulting package.json file
    - Documentation: [https://docs.npmjs.com/cli/init](https://docs.npmjs.com/cli/init)
 2. You should use npm to install React and ReactDOM
-   - Documentation: [http://expressjs.com/en/starter/installing.html](http://expressjs.com/en/starter/installing.html)
+   - Documentation: [https://www.codecademy.com/articles/react-setup-i](https://www.codecademy.com/articles/react-setup-i)
 3. You should add `react-scripts` as a development dependency
    - Install it and save it as a development dependency
    - Configure start, build, and test scripts in package.json
