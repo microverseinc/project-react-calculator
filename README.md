@@ -15,7 +15,7 @@ In this project you will learn how to build a very simple React application. You
 
 Math-magicians is a fictional company based in France. They have requested your help to build a simple product that would assist them with their calculations. An important thing to notice is that they have asked for a product that is not just fully-functional, but also beautiful and user-friendly.
 
-![GitHub Logo](/images/calculator.png)
+![Calculator Screenshot](https://github.com/microverseinc/project-react-calculator/blob/master/images/calculator.png?raw=true)
 
 ## Milestones
 
