@@ -17,12 +17,8 @@ Math-magicians is a fictional company based in France. They have requested your 
 
 ## Milestones
 
-- **Milestone 1**: [Basic project structure](milestones/MILESTONE_1.md)
-- **Milestone 2**: [Components](milestones/MILESTONE_2.md)
-- **Milestone 3**: [Styling](milestones/MILESTONE_3.md)
-- **Milestone 4**: [Calculations](milestones/MILESTONE_4.md)
-- **Milestone 5**: [Event handlers](milestones/MILESTONE_5.md)
-
----
-
-**NOTE**: Would you like to build projects like this with a coding partner? [Microverse](http://www.microverse.org/) offers an online training program for remote software developers where you will work with students from around the world doing pair programming while working on freelance and open-source projects.
+- **Milestone 1**: [Basic project structure](https://github.com/microverseinc/project-react-calculator/blob/master/milestones/MILESTONE_1.md)
+- **Milestone 2**: [Components](https://github.com/microverseinc/project-react-calculator/blob/master/milestones/MILESTONE_2.md)
+- **Milestone 3**: [Styling](https://github.com/microverseinc/project-react-calculator/blob/master/milestones/MILESTONE_3.md)
+- **Milestone 4**: [Calculations](https://github.com/microverseinc/project-react-calculator/blob/master/milestones/MILESTONE_4.md)
+- **Milestone 5**: [Event handlers](https://github.com/microverseinc/project-react-calculator/blob/master/milestones/MILESTONE_5.md)
