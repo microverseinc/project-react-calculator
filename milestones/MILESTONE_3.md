@@ -8,20 +8,20 @@ At the end of this milestone, the styled version of the calculator should look l
 ## Requirements
 
 1. Use flex display mode for **App**, **Display**, **ButtonPanel** components
-   - The Calculator width should be 700px.
+    - The Calculator width should be 700px.
 2. Style **Display** component
-   - It should have a gray background.
-   - It should have a height set to 100px.
-   - The result should be presented with a white and bold text.
-   - The result should have padding from the edges.
-   - The result should be aligned to the right.
+    - It should have a gray background.
+    - It should have a height set to 100px.
+    - The result should be presented with a white and bold text.
+    - The result should have padding from the edges.
+    - The result should be aligned to the right.
 3. Style **ButtonPanel** component
-   - Each row (display and group buttons) should have a height of 100 px.
-   - The Button groups should be displayed horizontally in rows.
+    - Each row (display and group buttons) should have a height of 100 px.
+    - The Button groups should be displayed horizontally in rows.
 4. Style **Button** component
-   - Button should take 25% of the container width, except for the button that represents the "0" (zero).
-   - Text in buttons should be centered and displayed in black color.
-   - Each button should have border.
+    - Button should take 25% of the container width, except for the button that represents the "0" (zero).
+    - Text in buttons should be centered and displayed in black color.
+    - Each button should have border.
 5. Pass "color" and "wide" props to Button
-   - `color` prop should be used to customize the color of the button. If it is not passed, the button should have an orange background.
-   - `wide` prop should accept a boolean to indicate that the button should have twice the standard width (used for the "0" button).
+    - `color` prop should be used to customize the color of the button. If it is not passed, the button should have an orange background.
+    - `wide` prop should accept a boolean to indicate that the button should have twice the standard width (used for the "0" button).
