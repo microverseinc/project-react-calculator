@@ -7,6 +7,7 @@ In this project you will learn how to build a very simple React application. You
 - Node.js
 - React
 - React-DOM
+- React-Create-App
 - npm
 - CSS
 - ES6

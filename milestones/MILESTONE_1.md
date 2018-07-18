@@ -1,25 +1,18 @@
 # Milestone 1
 
 ## Introduction
-Every project has its beginning in tooling and this one is no different. You will build a Calculator for Math-magicians Inc.
-using pre-defined React scripts, ES6 and style it with SCSS. This time we will make it a little bit easier for you because
-setup will come out of the box using the `react-create-app` package.
+Every project has its beginning in setting up some basic structure and tooling. You will build a calculator for Math-magicians Inc using `create-react-app`, a tool built by developers at Facebook to help you build React applications, saving you from time-consuming setup and configuration.
 
 ## Requirements
 
-1. You should use npm to initialize a new Node.js project
-    - Provide a description
-    - Provide server.js as the starting file
-    - Check the resulting package.json file
-    - Documentation: [https://docs.npmjs.com/cli/init](https://docs.npmjs.com/cli/init)
-2. You should use npm to install React and ReactDOM
-    - Documentation: [https://www.codecademy.com/articles/react-setup-i](https://www.codecademy.com/articles/react-setup-i)
-3. You should add `react-scripts` as a development dependency
-    - Install it and save it as a development dependency
-    - Configure start, build, and test scripts in package.json
-    - Documentation: [https://github.com/facebook/create-react-app/tree/next/packages/react-scripts](https://github.com/facebook/create-react-app/tree/next/packages/react-scripts)
-4. You should initialize the project directory structure
-    - Create `/src` directory
-    - Add `index.js` to /src directory and import React libraries there. Use ReactDOM to render basic markup: [https://reactjs.org/docs/react-dom.html](https://reactjs.org/docs/react-dom.html)
-    - Create `/public` directory
-    - Add `index.html` file with basic HTML template. Make sure your html includes root selector with ID so you can attach React render to it.
+1. Use `create-react-app` to initialize a new React app
+    - Documentation: [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
+2. Delete any unnecessary file or asset
+3. Run the application with `npm start` and make sure that everything works correctly.
+4. Follow the instructions in `create-react-app-buildpack` to deploy the app to Heroku
+    - Initialize a git repo
+    - Create a Heroku app
+    - Commit and deploy to Heroku
+    - Make sure the Heroku app works correctly
+    - Push everything to Github
+    - Documentation: [https://github.com/mars/create-react-app-buildpack](https://github.com/mars/create-react-app-buildpack)
