@@ -5,6 +5,8 @@ Your components are set and ready to work, but they don't look really pretty, do
 
 At the end of this milestone, the styled version of the calculator should look like this: [Calculator](https://github.com/microverseinc/project-react-calculator/blob/master/images/calculator.png)
 
+*Note: For this milestone, you can optionally use Sass instead of CSS. If you decide to do so, please [follow this guide](https://hackernoon.com/using-sass-with-create-react-app-without-ejecting-b5f4f827ed9e) to be able to use Sass with Create React App without having to eject it.
+
 ## Requirements
 
 1. Use flex display mode for **App**, **Display** and **ButtonPanel** components
