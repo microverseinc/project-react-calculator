@@ -9,7 +9,7 @@ Every project has its beginning in setting up some basic structure and tooling. 
     - Documentation: [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
 2. Delete any unnecessary file or asset3. 
 3. Add the necessary packages to your project:
-    - Add [`big-js`](https://www.npmjs.com/package/big-js) using npm
+    - Add [`big.js`](https://github.com/MikeMcl/big.js/) using npm
 4. Run the application with `npm start` and make sure that everything works correctly.
 5. Follow the instructions in `create-react-app-buildpack` to deploy the app to Heroku
     - Initialize a git repo
