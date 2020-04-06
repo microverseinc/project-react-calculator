@@ -7,7 +7,7 @@ Let's put aside the React work for a moment. We will now focus on the heart of t
 
 1. Preparation
     - Create a new `logic` folder inside `src` and initialize two javascript files there: `calculate.js` and `operate.js`.
-    - Add the [Big](https://www.npmjs.com/package/big-js) package to your project dependencies.
+    - Add the [big.js](https://github.com/MikeMcl/big.js/) package to your project dependencies.
 2. Implement the `calculate.js` module
     - It should contain one default method: `calculate`.
     - The `calculate` method should accept a calculator data object and a button name as arguments.
